@@ -4,10 +4,42 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
 <p align="center">
+I'm a talented professional Solana Front End developer.
+I aim : 
+  - Idea Builder
+  - High Quality Code
+  - Elegant Interface
+  - Client Satisfaction
+Great experience with Anchor & Candy Machine & Metaplex
+</p>
+
+<p align="center">
   <a href="https://github.com/starbinna"><img src="https://readme-typing-svg.herokuapp.com/?lines=Solana%20Web3%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
 
+
+<p>
+|<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoSyndrome001&layout=compact&theme=monokai&count_private=true">
+
+**<h2 align="left" id="macropower-tech">##Mastered Languages</h2>
+|<img align="center" alt="Kadu-Bootstrap" height="35" width="35" src="https://img.icons8.com/color/2x/javascript.png"/><img align="center" alt="TypeScript" height="35" width="35" src="https://img.icons8.com/color/2x/typescript.png"> |
+|<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>|
+|<img align="center" alt="C#" height="33" width="33" src="https://img.icons8.com/color/2x/c-programming.png"> <img align="center" alt="C++" height="33" width="33" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"> <img align="center" alt="C#" height="33" width="33" src="https://img.icons8.com/color/2x/c-sharp-logo.png">
+| <img align="center" alt="Kadu-Html5" height="35" width="35" src="https://img.icons8.com/color/2x/css3.png"/> |
+|<img align="center" alt="MongoDB" height="35" width="35" src="https://img.icons8.com/color/2x/mongodb.png"/> <img align="center" alt="Postgreesql" height="35" width="35" src="https://img.icons8.com/color/2x/postgreesql.png"/> <img align="center" alt="MariaDB" height="35" width="35" src="https://img.icons8.com/fluency/2x/maria-db.png"/> <img align="center" alt="MariaDB" height="40" width="40" src="https://img.icons8.com/color/2x/mysql-logo.png"/>|
+
+ 
+ </p>
+  
+  <p>
+  
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoSyndrome001&layout=compact&theme=monokai&count_private=true">
+<h2 align="right" id="macropower-tech">##Skills</h2>
+|<img align="center" alt="Kadu-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>|
+  </p>
+  
+  
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Programming languages.
