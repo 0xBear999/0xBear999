@@ -3,41 +3,78 @@
   Welcome To CryptoSyndrome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
-<p align="center">
-I'm a talented professional Solana Front End developer.
-I aim : 
-  - Idea Builder
-  - High Quality Code
-  - Elegant Interface
-  - Client Satisfaction
-Great experience with Anchor & Candy Machine & Metaplex
-</p>
 
 <p align="center">
   <a href="https://github.com/starbinna"><img src="https://readme-typing-svg.herokuapp.com/?lines=Solana%20Web3%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
+<p align="left">
+I'm a talented professional Solana Front End developer.
+</p>
+I aim : <br/>
+- Idea Builder<br/>
+- High Quality Code<br/>
+- Elegant Interface<br/>
+- Client Satisfaction<br/>
+Great experience with Anchor & Candy Machine & Metaplex<br/>
+
+<h2  id="macropower-tech">Mastered Languages</h2>
+<div>
+  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoSyndrome001&layout=compact&theme=monokai&count_private=true">
+  <div align="left">
+    <img align="center" alt="C#" height="35" width="35" src="https://img.icons8.com/color/2x/c-programming.png"> 
+    <img align="center" alt="C++" height="35" width="35" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"> 
+    <img align="center" alt="C#" height="35" width="35" src="https://img.icons8.com/color/2x/c-sharp-logo.png">
+    <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img align="center" alt="PHP" height="35" width="35" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/>  
+
+  <br/>
+    <img align="center" alt="Kadu-Bootstrap" height="35" width="35" src="https://img.icons8.com/color/2x/javascript.png"/>
+    <img align="center" alt="TypeScript" height="35" width="35" src="https://img.icons8.com/color/2x/typescript.png"> 
+    <img align="center" alt="Kadu-Html5" height="35" width="35" src="https://img.icons8.com/color/2x/css3.png"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
+  <br/>
+    <img align="center" alt="MongoDB" height="35" width="35" src="https://img.icons8.com/color/2x/mongodb.png"/>
+    <img align="center" alt="Postgreesql" height="35" width="35" src="https://img.icons8.com/color/2x/postgreesql.png"/> 
+    <img align="center" alt="MariaDB" height="35" width="35" src="https://img.icons8.com/fluency/2x/maria-db.png"/> 
+    <img align="center" alt="MariaDB" height="35" width="35" src="https://img.icons8.com/color/2x/mysql-logo.png"/>
+  </div>
+</div>
+<br/>
+<br/>
+<br/>
+
+<h2 align="right" id="macropower-skills">Great Skills</h2>  
+<div>
+<img align="left" max-height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoSyndrome001&layout=compact&theme=monokai&count_private=true"/>
+  <div align='right'>
+     <img align="center" alt="Kadu-Bootstrap" height="35" width="35" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" /> 
+    <img align="center" alt="Kadu-Bootstrap" height="35" width="35" src="https://img.icons8.com/color/2x/bootstrap.png" /> 
+    <br/>
+    <img align="center" alt="React" height="35"  width="35" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" />  
+    <img align="center" alt="Vue" height="35" width="35" src="https://img.icons8.com/color/2x/vue-js.png" />
+    <img align="center" alt="Nuxt" height="35" width="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" />
+    <img align="center" alt="Kadu-Angular" height="35" width="35" src="https://img.icons8.com/color/2x/angularjs.png" />
+    <br/>
+    <img align="center" alt="Kadu-NodeJS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Express.js" height="35" width="35" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" />  
+    <img align="center" alt="Unity icon" height="35" width="35" src="https://img.icons8.com/color/2x/django.png" />
+    <img align="center" alt="Laravel" height="35" width="35" src="https://img.icons8.com/fluency/2x/laravel.png" />  
+    <img align="center" alt="Laravel" height="35" width="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" />    
+    <br/>
+<img align="center" alt="Docker" height="35" width="35" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />  
+<img align="center" alt="Git" height="35"  width="35" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />  
+<img align="center" alt="GraphQL" height="35"  width="35"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" />  
+<img align="center" alt="WooCommerce" height="35" width="35"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" />  
+<img align="center" alt="WordPress" height="50"  width="35"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" />  
+<img align="center" alt="Shopify" height="35"  width="35"  src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png"/>  
+<img align="center" alt="Redux" height="35" width="35"  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"  />  
+
+  </div>
+</div>
 
 
-<p>
-|<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoSyndrome001&layout=compact&theme=monokai&count_private=true">
 
-**<h2 align="left" id="macropower-tech">##Mastered Languages</h2>
-|<img align="center" alt="Kadu-Bootstrap" height="35" width="35" src="https://img.icons8.com/color/2x/javascript.png"/><img align="center" alt="TypeScript" height="35" width="35" src="https://img.icons8.com/color/2x/typescript.png"> |
-|<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>|
-|<img align="center" alt="C#" height="33" width="33" src="https://img.icons8.com/color/2x/c-programming.png"> <img align="center" alt="C++" height="33" width="33" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"> <img align="center" alt="C#" height="33" width="33" src="https://img.icons8.com/color/2x/c-sharp-logo.png">
-| <img align="center" alt="Kadu-Html5" height="35" width="35" src="https://img.icons8.com/color/2x/css3.png"/> |
-|<img align="center" alt="MongoDB" height="35" width="35" src="https://img.icons8.com/color/2x/mongodb.png"/> <img align="center" alt="Postgreesql" height="35" width="35" src="https://img.icons8.com/color/2x/postgreesql.png"/> <img align="center" alt="MariaDB" height="35" width="35" src="https://img.icons8.com/fluency/2x/maria-db.png"/> <img align="center" alt="MariaDB" height="40" width="40" src="https://img.icons8.com/color/2x/mysql-logo.png"/>|
-
- 
- </p>
-  
-  <p>
-  
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoSyndrome001&layout=compact&theme=monokai&count_private=true">
-<h2 align="right" id="macropower-tech">##Skills</h2>
-|<img align="center" alt="Kadu-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>|
-  </p>
   
   
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
