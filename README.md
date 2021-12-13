@@ -15,7 +15,7 @@
   </span>
   <span align='left'>
     <span>
-      I'm a talented professional Solana Front End developer.<br/>
+      I'm a talented professional Solana Web3 developer.<br/>
       Great experience with Anchor & Candy Machine & Metaplex<br/>
     </span>
     I aim : <br/>
