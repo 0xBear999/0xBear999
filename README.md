@@ -63,7 +63,7 @@
     </a>
   </div>
 </div>
-<h3 align="left" id="macropower-skills">Great Skills : </h3>  
+<h3 align="left" id="macropower-skills">Major Skills : </h3>  
 <div>
   <div align='left'>
      <img align="center" alt="jQuery" height="35" width="35" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" /> 
