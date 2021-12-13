@@ -11,18 +11,19 @@
 
   <div>
     <span align='right'>
-  <img align='right' width='150' height='150' src='https://camo.githubusercontent.com/cb3ebdbc2a825029c2b9286d0219325934ffa5a2c9606543b633946590ebeaf5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62372f417070726f7665642d666f722d667265652d63756c747572616c2d776f726b732e7376672f31343470782d417070726f7665642d666f722d667265652d63756c747572616c2d776f726b732e7376672e706e67'/>
+  <img align='right' width='180' height='180' src='https://camo.githubusercontent.com/cb3ebdbc2a825029c2b9286d0219325934ffa5a2c9606543b633946590ebeaf5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62372f417070726f7665642d666f722d667265652d63756c747572616c2d776f726b732e7376672f31343470782d417070726f7665642d666f722d667265652d63756c747572616c2d776f726b732e7376672e706e67'/>
   </span>
   <span align='left'>
     <span>
       I'm a talented professional Solana Front End developer.<br/>
-      Great experience with Anchor & Candy Machine & Metaplex
+      Great experience with Anchor & Candy Machine & Metaplex<br/>
     </span>
     I aim : <br/>
-    :zap: Idea Builder<br/>
+    :zap: Creative Idea Builder<br/>
     :zap: High Quality Code<br/>
     :zap: Elegant Interface<br/>
     :zap: Client Satisfaction<br/>
+    :zap: Earnest Manner<br/>
   </span>
 
   </div>
