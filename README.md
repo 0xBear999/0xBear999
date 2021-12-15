@@ -16,7 +16,7 @@
   <span align='left'>
     <span>
      I'm a highly skilled experienced seeking a full-time as a Senior Solana Web3 developer. <br/>
-      Great experience with Anchor & Candy Machine & Metaplex<br/>
+       I have solid experience in NFT and web3. I developed lot of NFT minting websites with farming and staking features on Ethereum, Binance and Solana network. I am well versed in erc20, erc721, erc1155, metaplex, candy machine and anchor frameworks. I have rich experience in web3 and solana web3.js and developing smart contracts with solidity and rust. 
     </span>
     I aim : <br/>
     :zap: Creative Idea Builder<br/>
