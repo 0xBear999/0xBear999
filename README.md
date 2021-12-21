@@ -37,7 +37,9 @@
 <h3  id="macropower-tech">Skill sets </h3>
 <div>
   <div align="left">
-    <code><img alt="C#" height="50" width="50" src="https://img.icons8.com/color/2x/c-programming.png"></code>
+  <code><img alt="solana" height="50" width="50" src="./images/solana.png"></code>
+  <code><img alt="ether" height="50" width="50" src="./images/ether.png"></code>
+    <code><img alt="C" height="50" width="50" src="https://img.icons8.com/color/2x/c-programming.png"></code>
     <code><img  alt="C++" height="50" width="50" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></code>
     <code><img  alt="C#" height="50" width="50" src="https://img.icons8.com/color/2x/c-sharp-logo.png"></code>
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
