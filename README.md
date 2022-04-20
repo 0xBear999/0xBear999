@@ -38,6 +38,7 @@
 <div>
   <div align="left">
   <code><img alt="solana" height="50" width="50" src="./images/solana.png"></code>
+  <code><img alt="solana" height="50" width="50" src="./images/near.png"></code>
   <code><img alt="ether" height="50" width="50" src="./images/ether.png"></code>
     <code><img alt="C" height="50" width="50" src="https://img.icons8.com/color/2x/c-programming.png"></code>
     <code><img  alt="C++" height="50" width="50" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></code>
