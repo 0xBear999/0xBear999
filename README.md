@@ -15,8 +15,8 @@
   </span>
   <span align='left'>
     <span>
-     I'm a highly skilled experienced seeking a full-time as a Senior Solana Web3 developer. <br/>
-       I have solid experience in NFT and web3. I developed lot of NFT minting websites with farming and staking features on Ethereum, Binance and Solana network. I am well versed in erc20, erc721, erc1155, metaplex, candy machine V2, and anchor frameworks. I have rich experience in web3 and solana web3.js and developing smart contracts with solidity and rust. 
+     I'm a highly skilled experienced seeking a full-time as a Senior Blockchain developer. <br/>
+       I have solid experience with multi-blockchains : Solana, EVM, Near Protocol. I built lots of NFT/FT mint, stake, marketplace, launchpad, raffle, auction, p2e games on Solana, EVM and Near. I am well versed in erc20, erc721, erc1155, metaplex, candy machine V2, and anchor framework(rust), solidity and web3. I made enough experience with multi-blockchains so far and now looking for a new position in another company. 
     </span><br/>
     I aim : <br/>
     :zap: Creative Idea Builder<br/>
