@@ -12,33 +12,15 @@
 I'm a highly skilled Full Stack Blockchain developer. <br/>
 I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Have rich experience with lots of NFT/FT mint, stake, marketplace, launchpad, raffle, auction, p2e games on Solana, EVM and NEAR. Now I'm gonna build a beautiful future of blockchain world. 
 </span><br/>
-<span>
-I aim : </span>
-<br/>
+### I aim : 
 :zap: Creative Idea Builder<br/>
 :zap: Well Structured Project Design<br/>
 :zap: High Quality Code<br/>
 :zap: Elegant Interface<br/>
 :zap: Client Satisfaction<br/>
 :zap: Earnest Manner<br/>
-   <span>
-  🤝 Contact with me 🤝
-   </span><br />
-   <a href="http://discordapp.com/users/961053295353430016" >
-   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg' alt='supernova | discord' height="30" width="30"/>
-   </a>
-   <a href="https://t.me/Supernova_1111" >
-   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg' alt='supernova | telegram' height="30" width="30"/>
-   </a>
-   <a href="https://join.skype.com/invite/Bk1f3pGPYuJF" >
-   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg' alt='supernova | skype' height="30" width="30"/>
-   </a>
-   <a href="mailto:devilprogrammer090@gmail.com" >
-   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='supernova | email' height="30" width="30"/>
-   </a>
-<br />
      
-<h3>Top Skills</h3>
+## Top Skills
 <div>
   <div align="left">
     <code><img alt="solana" height="50" width="50" src="./images/solana.png"></code>
@@ -94,26 +76,24 @@ I aim : </span>
       <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
     </a>  
     
-<!--    
-<code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
-<a href="https://sass-lang.com" target="_blank"> 
-       <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
-    </a>
- <a href="https://tailwindcss.com/" target="_blank"> 
-      <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
-    </a>
-<code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
-    <code><img alt="WordPress" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" /></code>
-    <code><img alt="Shopify" height="50"  width="50"  src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png"/></code> 
-<a href="https://www.chartjs.org" target="_blank"> 
-      <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
-    </a> 
-<a href="https://www.electronjs.org" target="_blank"> 
-      <code><img alt="electron" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>
-    </a>
--->
-    
-    
+  <!--    
+  <code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
+  <a href="https://sass-lang.com" target="_blank"> 
+        <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
+      </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+        <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
+      </a>
+  <code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
+      <code><img alt="WordPress" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" /></code>
+      <code><img alt="Shopify" height="50"  width="50"  src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png"/></code> 
+  <a href="https://www.chartjs.org" target="_blank"> 
+        <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
+      </a> 
+  <a href="https://www.electronjs.org" target="_blank"> 
+        <code><img alt="electron" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>
+      </a>
+  -->  
     
   </div>
 </div>
@@ -136,7 +116,23 @@ I aim : </span>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- <a href="https://github.com/cryptoSyndrome001/cryptoSyndrome001"><img alt="cryptoSyndrome001's activity graph" src="https://activity-graph.herokuapp.com/graph?username=cryptoSyndrome001&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
-<hr>
+
+
+## 🤝 Contact with me 🤝
+   
+   <a href="http://discordapp.com/users/961053295353430016" >
+   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg' alt='supernova | discord' height="30" width="30"/>
+   </a>
+   <a href="https://t.me/Supernova_1111" >
+   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg' alt='supernova | telegram' height="30" width="30"/>
+   </a>
+   <a href="https://join.skype.com/invite/Bk1f3pGPYuJF" >
+   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg' alt='supernova | skype' height="30" width="30"/>
+   </a>
+   <a href="mailto:devilprogrammer090@gmail.com" >
+   <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='supernova | email' height="30" width="30"/>
+   </a>
+
 <br />
 
 <p align="right">
