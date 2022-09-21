@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
 <p align="center">
-  <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Blockchain+Developer;Full+Stack+Web+Developer;8+Years+of+Dev+Experience;Always+Learning+New+Tech"></a>
+  <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&size=40&height=60&center=true&vCenter=true&lines=Full+Stack+Blockchain+Developer;Full+Stack+Web+Developer;8+Years+of+Web+Dev+Experience;4+Years+of++Blockchain+Dev+Experience;Always+Learning+New+Tech"></a>
 </p>
 <br />
 
@@ -21,7 +21,7 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
 :zap: Client Satisfaction<br/>
 :zap: Earnest Manner<br/>
      
-## Top Skills
+## Major Skills
 <div>
   <div align="left">
     <code><img alt="solana" height="50" width="50" src="./images/solana.png"></code>
@@ -70,14 +70,15 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
      <a href="https://firebase.google.com/" target="_blank"> 
        <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></code>
     </a>
-    <a href="https://www.java.com" target="_blank"> 
+    
+    
+  <!--    
+  <a href="https://www.java.com" target="_blank"> 
       <code><img  alt="java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
     </a> 
     <a href="https://www.qt.io/" target="_blank">
       <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
     </a>  
-    
-  <!--    
   <code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
   <a href="https://sass-lang.com" target="_blank"> 
         <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
