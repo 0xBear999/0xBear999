@@ -34,10 +34,11 @@
     <img alt="solana" height="30" width="30" src="./images/solana.png"><br/>
     <img alt="solana" height="30" width="30" src="./images/near.png"><br />
     <img alt="ether" height="30" width="30" src="./images/ether.png"><br />
+      </span>
   </div>
-  </span>
+  
   </div>
-     <div>
+     
      <span>
     🤝 Contact with me 🤝
      </span><br />
@@ -55,7 +56,7 @@
      </a>
      
      
-     </div>
+     
 <!--   [![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1) -->
   
 <hr>
@@ -128,9 +129,7 @@
   </div>
 </div>
 <hr>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Astro2020-lovely&row=3&column=8&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
-</p>
+
 <hr>
 
 
@@ -140,10 +139,10 @@
 
 <!-- > GitHub Profile Status -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cryptoSyndrome001&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoSyndrome001&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
+</p> -->
 
 
 
