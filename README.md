@@ -12,7 +12,8 @@
 I'm a highly skilled Full Stack Blockchain developer. <br/>
 I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Have rich experience with lots of NFT/FT mint, stake, marketplace, launchpad, raffle, auction, p2e games on Solana, EVM and NEAR. Now I'm gonna build a beautiful future of blockchain world. 
 </span><br/>
-### I aim : 
+
+### I aim:
 :zap: Creative Idea Builder<br/>
 :zap: Well Structured Project Design<br/>
 :zap: High Quality Code<br/>
