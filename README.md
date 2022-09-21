@@ -44,6 +44,20 @@ I aim : </span>
     <code><img alt="solana" height="50" width="50" src="./images/solana.png"></code>
     <code><img alt="near" height="50" width="50" src="./images/near.png"></code>
     <code><img alt="ether" height="50" width="50" src="./images/ether.png"></code>
+    <code><img alt="serum" height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/200x200/6187.png"></code>
+    <code><img alt="orca" height="50" width="50" src="https://www.orca.so/static/media/logomark.55072c62.svg"></code>
+    <!--  -->
+    <code><img alt="anchor" height="50" width="50" src="https://camo.githubusercontent.com/73b2a433c137f781fb799073ceba7ffded98a2cb5db2ce6aa7f7ab9eaeb547a9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" /></code>
+    <code><img alt="anchor" height="50" width="50" src="https://play-lh.googleusercontent.com/ioQBlPQEZDoiNFTMj_CRMt7BlBREualoE1SChNtP6ZKrYhKXtMe-c5hqLB-hL4M2" /></code>
+    <!--  -->
+    <code><img alt="magiceden" height="50" width="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/06/magic-eden-logo-freelogovectors.net_.png"></code>
+    <code><img alt="truffle" height="50" width="50" src="https://trufflesuite.com/assets/logo.png"></code>
+    <code><img alt="metamask" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png"></code>
+    <code><img alt="opensea" height="50" width="50" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png"></code>
+    <code><img alt="pancake" height="50" width="50" src="https://seeklogo.com/images/P/pancakeswap-cake-logo-855C872947-seeklogo.com.png"></code>
+    <!--  -->
+    <code><img alt="paras" height="50" width="50" src="https://avatars.githubusercontent.com/u/73262371?s=200&v=4"></code>
+    <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png -->
     <code><img alt="Express.js" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></code>
     <code><img alt="django icon" height="50" width="50" src="https://img.icons8.com/color/2x/django.png" /></code>
     <code><img alt="Laravel" height="50" width="50" src="https://img.icons8.com/fluency/2x/laravel.png" /></code>
@@ -51,13 +65,7 @@ I aim : </span>
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <code><img alt="Kadu-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
     <code><img alt="Javascript" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
-    <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
-    <a href="https://www.java.com" target="_blank"> 
-      <code><img  alt="java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
-    </a> 
-    <a href="https://www.qt.io/" target="_blank">
-      <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
-    </a>    
+    <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>  
     <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
     <code><img alt="Postgreesql" height="50" width="50" src="https://img.icons8.com/color/2x/postgreesql.png"/></code>
     <code><img alt="MariaDB" height="50" width="50" src="https://img.icons8.com/fluency/2x/maria-db.png"/></code>
@@ -68,7 +76,6 @@ I aim : </span>
     </a>
     <code><img alt="Vue" height="50" width="50" src="https://img.icons8.com/color/2x/vue-js.png" /></code>
     <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
-    <code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
     <code><img  alt="Docker" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" /></code>
     <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
     <a href="https://redux.js.org" target="_blank">
@@ -80,8 +87,15 @@ I aim : </span>
      <a href="https://firebase.google.com/" target="_blank"> 
        <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></code>
     </a>
+    <a href="https://www.java.com" target="_blank"> 
+      <code><img  alt="java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
+    </a> 
+    <a href="https://www.qt.io/" target="_blank">
+      <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
+    </a>  
     
 <!--    
+<code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
 <a href="https://sass-lang.com" target="_blank"> 
        <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
     </a>
