@@ -61,8 +61,7 @@ I aim : </span>
     <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
     <code><img alt="Postgreesql" height="50" width="50" src="https://img.icons8.com/color/2x/postgreesql.png"/></code>
     <code><img alt="MariaDB" height="50" width="50" src="https://img.icons8.com/fluency/2x/maria-db.png"/></code>
-    <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/
-    react-original-wordmark.svg" /></code>
+    <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
     <code><img alt="nextjs" width="50" height="50" src="./images/next2.png"/></code>
     <a href="https://www.gatsbyjs.com/" target="_blank">
       <code><img alt="gatsby" width="50" height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"/></code>
