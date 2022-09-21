@@ -42,16 +42,16 @@
     🤝 Contact with me 🤝
      </span><br />
      <a href="http://discordapp.com/users/961053295353430016" >
-     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg' alt='supernova | discord'/>
+     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg' alt='supernova | discord' height="30" width="30"/>
      </a>
      <a href="https://t.me/Supernova_1111" >
-     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg' alt='supernova | telegram'/>
+     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg' alt='supernova | telegram' height="30" width="30"/>
      </a>
      <a href="https://join.skype.com/invite/Bk1f3pGPYuJF" >
-     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg' alt='supernova | skype'/>
+     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg' alt='supernova | skype' height="30" width="30"/>
      </a>
      <a href="mailto:devilprogrammer090@gmail.com" >
-     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='supernova | email'/>
+     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='supernova | email' height="30" width="30"/>
      </a>
      
      
