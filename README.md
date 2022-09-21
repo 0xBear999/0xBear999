@@ -3,32 +3,24 @@
   Welcome To CryptoSyndrome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
-
 <p align="center">
   <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Blockchain+Developer;Full+Stack+Web+Developer;8+Years+of+Dev+Experience;Always+Learning+New+Tech"></a>
 </p>
 <br />
 
-  <div>
-    <span>
-     I'm a highly skilled Full Stack Blockchain developer. <br/>
-       I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Have rich experience with lots of NFT/FT mint, stake, marketplace, launchpad, raffle, auction, p2e games on Solana, EVM and NEAR. Now I'm gonna build a beautiful future of blockchain world. 
-    </span><br/>
-  
-    <div>
-      <span align='left'>
-        I aim : <br/>
-        :zap: Creative Idea Builder<br/>
-        :zap: Well Structured Project Design<br/>
-        :zap: High Quality Code<br/>
-        :zap: Elegant Interface<br/>
-        :zap: Client Satisfaction<br/>
-        :zap: Earnest Manner<br/>
-      </span>
-    </div>
-  
-  </div>
-     
+<span>
+I'm a highly skilled Full Stack Blockchain developer. <br/>
+I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Have rich experience with lots of NFT/FT mint, stake, marketplace, launchpad, raffle, auction, p2e games on Solana, EVM and NEAR. Now I'm gonna build a beautiful future of blockchain world. 
+</span><br/>
+<span>
+I aim : </span>
+<br/>
+:zap: Creative Idea Builder<br/>
+:zap: Well Structured Project Design<br/>
+:zap: High Quality Code<br/>
+:zap: Elegant Interface<br/>
+:zap: Client Satisfaction<br/>
+:zap: Earnest Manner<br/>
    <span>
   🤝 Contact with me 🤝
    </span><br />
@@ -44,49 +36,40 @@
    <a href="mailto:devilprogrammer090@gmail.com" >
    <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='supernova | email' height="30" width="30"/>
    </a>
+<br />
      
-     
-     
-<!--   [![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1) -->
-  
-<hr>
-<h3  id="macropower-tech">Top Skills</h3>
+<h3>Top Skills</h3>
 <div>
   <div align="left">
     <code><img alt="solana" height="50" width="50" src="./images/solana.png"></code>
     <code><img alt="near" height="50" width="50" src="./images/near.png"></code>
     <code><img alt="ether" height="50" width="50" src="./images/ether.png"></code>
+    <code><img alt="Express.js" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></code>
+    <code><img alt="django icon" height="50" width="50" src="https://img.icons8.com/color/2x/django.png" /></code>
+    <code><img alt="Laravel" height="50" width="50" src="https://img.icons8.com/fluency/2x/laravel.png" /></code>
+    <code><img alt="CI" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" /></code>
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-    <code><img alt="Kadu-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
+    <code><img alt="Kadu-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+    <code><img alt="Javascript" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
     <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
     <a href="https://www.java.com" target="_blank"> 
       <code><img  alt="java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
     </a> 
     <a href="https://www.qt.io/" target="_blank">
       <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
-    </a>
-    
-    
+    </a>    
     <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
     <code><img alt="Postgreesql" height="50" width="50" src="https://img.icons8.com/color/2x/postgreesql.png"/></code>
     <code><img alt="MariaDB" height="50" width="50" src="https://img.icons8.com/fluency/2x/maria-db.png"/></code>
-        
-    <a href="https://sass-lang.com" target="_blank"> 
-       <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
-    </a>
-    <code><img alt="gatsby" width="50" height="50" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAMAAAANmfvwAAAAYFBMVEUAAAD///9SUlKHh4fY2Njy8vLAwMC9vb2ampr6+vrR0dH29vZdXV1aWlogICBiYmIrKyupqang4OBKSkoKCgp0dHQlJSWUlJTKysqNjY1BQUGhoaHp6ek3NzcXFxdsbGzE8kR0AAABHUlEQVQ4jX3U7ZKDIAwF0BuQYqvi1tpuu5/v/5YLC0JAkF8Z5swkQAIorUFLYbA+hNQD20aMuhlszd2OqBHFGlVOTiVw68RJXxNAn0hDBOOIbgmfyxLVFoD6J9MRGR3pjgTQWRIvZL3fYgnLYwtnwhC9JHoL4ZlE3D5Dc7JUiIbkhN73RILFpLZUnAgYRp7XkIqTBBy52Jt6lQQFuflUOTEZgU+VJxI5wZdLpbJyZUE+iIy9Un5oXRB8uld7pj7V9n4LYlNJmPhc9oUoNv4rkG+in3ScmTfD79Z+PW8Q1wy0Gw+7HQ8xtRqTaA2Rb8zKEE2hLOj2kFzp7qs6GLWFkI1aJddqU2UDa2suR2WiYux3n8d4qfwv2xcEU3xBf2BNB//x27X9AAAAAElFTkSuQmCC"/></code>
+    <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/
+    react-original-wordmark.svg" /></code>
+    <code><img alt="nextjs" width="50" height="50" src="./images/next2.png"/></code>
     <a href="https://www.gatsbyjs.com/" target="_blank">
       <code><img alt="gatsby" width="50" height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"/></code>
-    </a> 
-    <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
+    </a>
     <code><img alt="Vue" height="50" width="50" src="https://img.icons8.com/color/2x/vue-js.png" /></code>
     <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
     <code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
-    <code><img alt="Kadu-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-    <code><img alt="Express.js" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></code>
-    <code><img alt="django icon" height="50" width="50" src="https://img.icons8.com/color/2x/django.png" /></code>
-    <code><img alt="Laravel" height="50" width="50" src="https://img.icons8.com/fluency/2x/laravel.png" /></code>
-    <code><img alt="CI" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" /></code>
     <code><img  alt="Docker" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" /></code>
     <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
     <a href="https://redux.js.org" target="_blank">
@@ -99,7 +82,11 @@
        <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></code>
     </a>
     
-<!--     <a href="https://tailwindcss.com/" target="_blank"> 
+<!--    
+<a href="https://sass-lang.com" target="_blank"> 
+       <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
+    </a>
+ <a href="https://tailwindcss.com/" target="_blank"> 
       <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
     </a>
 <code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
@@ -117,14 +104,11 @@
     
   </div>
 </div>
-<hr>
-
-<hr>
-
-
+<!-- <hr> 
+<br />
+-->
 <!-- <h2 align="left" id="macropower-tech">Github Status</h2> -->
 
-<br />
 
 <!-- > GitHub Profile Status -->
 
@@ -139,7 +123,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- <a href="https://github.com/cryptoSyndrome001/cryptoSyndrome001"><img alt="cryptoSyndrome001's activity graph" src="https://activity-graph.herokuapp.com/graph?username=cryptoSyndrome001&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
-
+<hr>
 <br />
 
 <p align="right">
@@ -150,4 +134,4 @@
   <a href="https://github.com/cryptoSyndrome001">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=cryptoSyndrome001&style=for-the-badge"/></a>
 </p>
-<hr>
+
