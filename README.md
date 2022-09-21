@@ -5,41 +5,63 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Solana%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Blockchain+Developer;Full+Stack+Web+Developer;8+Years+of+Dev+Experience;Always+Learning+New+Tech"></a>
 </p>
 <br />
 
   <div>
-    <span align='right'>
-  <img align='right' width='180' height='180' src='https://camo.githubusercontent.com/cb3ebdbc2a825029c2b9286d0219325934ffa5a2c9606543b633946590ebeaf5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62372f417070726f7665642d666f722d667265652d63756c747572616c2d776f726b732e7376672f31343470782d417070726f7665642d666f722d667265652d63756c747572616c2d776f726b732e7376672e706e67'/>
-  </span>
-  <span align='left'>
+   
+  <span >
     <span>
-     I'm a highly skilled experienced seeking a full-time as a Senior Blockchain developer. <br/>
-       I have solid experience with multi-blockchains : Solana, EVM, Near Protocol. I built lots of NFT/FT mint, stake, marketplace, launchpad, raffle, auction, p2e games on Solana, EVM and Near. I am well versed in erc20, erc721, erc1155, metaplex, candy machine V2, and anchor framework(rust), solidity and web3. I made enough experience with multi-blockchains so far and now looking for a new position in another company. 
+     I'm a highly skilled Full Stack Blockchain developer. <br/>
+       I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Have rich experience with lots of NFT/FT mint, stake, marketplace, launchpad, raffle, auction, p2e games on Solana, EVM and NEAR. Now I'm gonna build a beautiful future of blockchain world. 
     </span><br/>
+  
+  <div>
+    <span align='left'>
     I aim : <br/>
     :zap: Creative Idea Builder<br/>
+    :zap: Well Structured Project Design<br/>
     :zap: High Quality Code<br/>
     :zap: Elegant Interface<br/>
     :zap: Client Satisfaction<br/>
     :zap: Earnest Manner<br/>
-  </span>
-
+    </span>
+    <span align='right'>
+    <span>
+    Multichains
+    </span><br />
+    <img alt="solana" height="30" width="30" src="./images/solana.png"><br/>
+    <img alt="solana" height="30" width="30" src="./images/near.png"><br />
+    <img alt="ether" height="30" width="30" src="./images/ether.png"><br />
   </div>
+  </span>
+  </div>
+     <div>
+     <span>
+    🤝 Contact with me 🤝
+     </span><br />
+     <a href="http://discordapp.com/users/961053295353430016" >
+     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg' alt='supernova | discord'/>
+     </a>
+     <a href="https://t.me/Supernova_1111" >
+     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg' alt='supernova | telegram'/>
+     </a>
+     <a href="https://join.skype.com/invite/Bk1f3pGPYuJF" >
+     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg' alt='supernova | skype'/>
+     </a>
+     <a href="mailto:devilprogrammer090@gmail.com" >
+     <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='supernova | email'/>
+     </a>
      
+     
+     </div>
 <!--   [![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1) -->
   
-
-
-
 <hr>
 <h3  id="macropower-tech">Skill sets </h3>
 <div>
   <div align="left">
-  <code><img alt="solana" height="50" width="50" src="./images/solana.png"></code>
-  <code><img alt="solana" height="50" width="50" src="./images/near.png"></code>
-  <code><img alt="ether" height="50" width="50" src="./images/ether.png"></code>
     <code><img alt="C" height="50" width="50" src="https://img.icons8.com/color/2x/c-programming.png"></code>
     <code><img  alt="C++" height="50" width="50" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></code>
     <code><img  alt="C#" height="50" width="50" src="https://img.icons8.com/color/2x/c-sharp-logo.png"></code>
