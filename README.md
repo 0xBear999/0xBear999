@@ -119,7 +119,7 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- <a href="https://github.com/cryptoSyndrome001/cryptoSyndrome001"><img alt="cryptoSyndrome001's activity graph" src="https://activity-graph.herokuapp.com/graph?username=cryptoSyndrome001&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
 
-
+<!--
 ## 🤝 Contact with me 🤝
    
    <a href="http://discordapp.com/users/961053295353430016" >
@@ -134,7 +134,7 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
    <a href="mailto:devilprogrammer090@gmail.com" >
    <img align='left' src='https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg' alt='supernova | email' height="30" width="30"/>
    </a>
-
+-->
 <br />
 
 <p align="right">
