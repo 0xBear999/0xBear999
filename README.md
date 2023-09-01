@@ -48,7 +48,7 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
     <code><img alt="pancake" height="50" width="50" src="https://seeklogo.com/images/P/pancakeswap-cake-logo-855C872947-seeklogo.com.png"></code>
 
     <code><img alt="paras" height="50" width="50" src="https://avatars.githubusercontent.com/u/73262371?s=200&v=4"></code>
-    <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png -->
+
     <code><img alt="Express.js" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></code>
     <code><img alt="django icon" height="50" width="50" src="https://img.icons8.com/color/2x/django.png" /></code>
     <code><img alt="Laravel" height="50" width="50" src="https://img.icons8.com/fluency/2x/laravel.png" /></code>
