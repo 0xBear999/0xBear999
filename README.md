@@ -3,9 +3,12 @@
   Welcome To 0xBear
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
+    
+  <!--    
 <p align="center">
   <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&size=40&height=60&center=true&vCenter=true&lines=Full+Stack+Blockchain+Developer;Full+Stack+Web+Developer;8+Years+of+Web+Dev+Experience;4+Years+of++Blockchain+Dev+Experience;Always+Learning+New+Tech"></a>
 </p>
+-->
 <br />
 
 <span>
@@ -14,13 +17,14 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
 </span><br/>
 
 ### I aim:
-:zap: Creative Idea Builder<br/>
-:zap: Well Structured Project Design<br/>
-:zap: High Quality Code<br/>
-:zap: Elegant Interface<br/>
+:zap: Business Mindset<br/>
+:zap: Tech Trending<br/>
+:zap: High Quality<br/>
+:zap: Blockchain<br/>
+<!--
 :zap: Client Satisfaction<br/>
 :zap: Earnest Manner<br/>
-     
+--> 
 ## Major Skills
 <div>
   <div align="left">
