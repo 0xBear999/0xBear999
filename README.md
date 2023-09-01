@@ -3,19 +3,20 @@
   Welcome To 0xBear
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
-    
+    <br />
+    <img src='https://github.com/0xBear999/0xBear999/assets/90205652/8a30dcdf-0ae6-4fb6-b94b-704ea481866a' />
   <!--    
 <p align="center">
   <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&size=40&height=60&center=true&vCenter=true&lines=Full+Stack+Blockchain+Developer;Full+Stack+Web+Developer;8+Years+of+Web+Dev+Experience;4+Years+of++Blockchain+Dev+Experience;Always+Learning+New+Tech"></a>
 </p>
--->
+
 <br />
 
 <span>
 I'm a highly skilled Full Stack Blockchain developer. <br/>
 I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Have rich experience with lots of NFT/FT mint, stake, marketplace, launchpad, raffle, auction, p2e games on Solana, EVM and NEAR. Now I'm gonna build a beautiful future of blockchain world. 
 </span><br/>
-
+-->
 ### I aim:
 :zap: Business Mindset<br/>
 :zap: Tech Trending<br/>
@@ -117,6 +118,7 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
     <img src="https://github-readme-stats.vercel.app/api?username=cryptoSyndrome001&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoSyndrome001&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p> -->
+
 
 
 
