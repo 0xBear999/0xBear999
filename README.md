@@ -37,16 +37,16 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
     <code><img alt="ether" height="50" width="50" src="./images/ether.png"></code>
     <code><img alt="serum" height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/200x200/6187.png"></code>
     <code><img alt="orca" height="50" width="50" src="https://www.orca.so/static/media/logomark.55072c62.svg"></code>
-    <!--  -->
+
     <code><img alt="anchor" height="50" width="50" src="https://camo.githubusercontent.com/73b2a433c137f781fb799073ceba7ffded98a2cb5db2ce6aa7f7ab9eaeb547a9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" /></code>
     <code><img alt="anchor" height="50" width="50" src="https://play-lh.googleusercontent.com/ioQBlPQEZDoiNFTMj_CRMt7BlBREualoE1SChNtP6ZKrYhKXtMe-c5hqLB-hL4M2" /></code>
-    <!--  -->
+
     <code><img alt="magiceden" height="50" width="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/06/magic-eden-logo-freelogovectors.net_.png"></code>
     <code><img alt="truffle" height="50" width="50" src="https://trufflesuite.com/assets/logo.png"></code>
     <code><img alt="metamask" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png"></code>
     <code><img alt="opensea" height="50" width="50" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png"></code>
     <code><img alt="pancake" height="50" width="50" src="https://seeklogo.com/images/P/pancakeswap-cake-logo-855C872947-seeklogo.com.png"></code>
-    <!--  -->
+
     <code><img alt="paras" height="50" width="50" src="https://avatars.githubusercontent.com/u/73262371?s=200&v=4"></code>
     <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png -->
     <code><img alt="Express.js" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></code>
