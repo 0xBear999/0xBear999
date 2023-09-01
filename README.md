@@ -20,10 +20,12 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
 :zap: Business Mindset<br/>
 :zap: Tech Trending<br/>
 :zap: High Quality<br/>
-:zap: Blockchain<br/>
+
 <!--
 :zap: Client Satisfaction<br/>
-:zap: Earnest Manner<br/>
+:zap: Earnest Manner
+:zap: Blockchain<br/>
+<br/>
 --> 
 ## Major Skills
 <div>
