@@ -78,7 +78,7 @@ I have solid experience with multi-blockchains : Solana, EVM, NEAR Protocol. Hav
      <a href="https://firebase.google.com/" target="_blank"> 
        <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></code>
     </a>
-    -->
+  -->
     
   <!--    
   <a href="https://www.java.com" target="_blank"> 
